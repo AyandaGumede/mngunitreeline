@@ -9,13 +9,13 @@ const WhyGrowWithUs = () => {
     {
       title: "Premium livestock",
       description:
-        "Boer and indigenous cross goats, alongside commercial beef cattle, formed around quality and resilience.",
+        "Quality goats and cattles, formed around quality and resilience.",
       icon: LivestockIcon,
     },
     {
       title: "Fruit orchards & juices",
       description:
-        "Longer-term growth into orchards and on-farm processing for fresh fruit and premium juices.",
+        "Longer term growth into orchards and on-farm processing for fresh fruit and premium juices.",
       icon: FruitOrchards,
     },
     {
